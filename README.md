@@ -1,7 +1,7 @@
 # 6-semesterr
 #### <a href = https://replit.com/@Vermillionsl/LR-12#main.py> ЛР №1/2</a>
 
-#### <a href = https://colab.research.google.com/drive/1XnqodptxitmRVxt1dYqoP-vuTU_lYVK7#scrollTo=V4cwPTMm1B7L> ЛР №3</a>
+#### <a href = https://colab.research.google.com/drive/1XnqodptxitmRVxt1dYqoP-vuTU_lYVK7#scrollTo> ЛР №3</a>
 
 #### <a href = https://colab.research.google.com/drive/1qIYHEacrMH6VxQvuDL3CPEeKSGLzW_uS?usp> Лабораторная работа №4/5</a>
 
