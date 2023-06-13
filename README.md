@@ -5,4 +5,4 @@
 
 #### <a href = https://colab.research.google.com/drive/1h2J7sDus_A4Uo6gAqeDXRp9Z5fua5JbG#scrollTo> ЛР №4/5</a>
 
-#### <a href = https://colab.research.google.com/drive/1h2J7sDus_A4Uo6gAqeDXRp9G#scrollTo> ЛР №4/5</a>
+#### <a href = https://colab.research.google.com/drive/1h2J7sDus_A4Uo6gAqeDXRp9G#scrollTo> ЛР 6</a>
